@@ -8,7 +8,7 @@ breadcrumb: Terms of Use
 
 Access to this website is granted by the Board of Architects ("BOA"). By accessing this website, you shall be deemed to have accepted and agreed to be bound by the terms and conditions below. If you do not agree to the terms and conditions, please discontinue your access immediately.
 
-Amendments and additional terms and conditions
+### Amendments and additional terms and conditions
 
 These terms and conditions may be amended by BOA from time to time without notice. You shall be deemed to have accepted and agreed to the terms and conditions as amended upon your use of this website after the amendments have been made. You should therefore check these terms and conditions every time you use this website.
 
